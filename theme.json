@@ -1,0 +1,14 @@
+{
+  "accent": "#FF0000",
+  "text": "#FFEEDD",
+  "text_dim": "#8C7A6B",
+  "correct": "#FFEEDD",
+  "error": "#FF0000",
+  "error_bg": "#CC0000",
+  "cursor": "#FF0000",
+  "warning": "#FF4444",
+  "success": "#FFEEDD",
+  "info": "#FF6666",
+  "star": "#FF0000",
+  "border": "#8C7A6B"
+}
