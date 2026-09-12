@@ -10,6 +10,7 @@ over HTTP. By default it points at a hosted instance, but you can run your own s
 and point the client at it (see [Server](#server)).
 
 <img width="1214" height="629" alt="msrdc_gPm5CKIhFd" src="https://github.com/user-attachments/assets/c35493cb-0cae-4c3b-8bd9-71db2b7d1b0e" />
+
 ## Features
 
 - **Typing test** — timed tests (15s / 30s / 60s / 120s) with live WPM, accuracy, and consistency tracking
