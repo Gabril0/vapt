@@ -1,4 +1,5 @@
 # vapt
+<img width="1178" height="624" alt="msrdc_9jE07HFStp" src="https://github.com/user-attachments/assets/c4304935-90f7-4a34-b2f6-d3a08feff6cb" />
 
 A terminal typing test with online features — leaderboards, tenants (organizations), and profile management.
 
@@ -8,6 +9,7 @@ Built with [Bubble Tea](https://github.com/charmbracelet/bubbletea).
 over HTTP. By default it points at a hosted instance, but you can run your own server
 and point the client at it (see [Server](#server)).
 
+<img width="1214" height="629" alt="msrdc_gPm5CKIhFd" src="https://github.com/user-attachments/assets/c35493cb-0cae-4c3b-8bd9-71db2b7d1b0e" />
 ## Features
 
 - **Typing test** — timed tests (15s / 30s / 60s / 120s) with live WPM, accuracy, and consistency tracking
